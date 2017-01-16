@@ -1,0 +1,770 @@
+@media (min-width: 390px) {
+    .openingsuren {
+        width: 50%;
+        float: left;
+    
+    }
+}
+
+@media (min-width: 30em) {
+    .fullw .home_background {
+        background: url(images/home/background-tablet1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding-bottom: 25px;
+        min-height: 100vh;
+    }
+    
+    .bannerbox {
+        
+        max-width: 80%;
+        padding: 25px;
+        padding-top: 120px;
+    
+    }
+    
+    .buttonbox {
+        width: 180px;
+    
+    }
+    .buttonbox2 {
+        width: 180px;
+    
+    }
+    .buttonlink {
+        padding: 13px;
+        border-radius: 4px;
+
+
+        text-transform: uppercase;
+        font-size: 15px;
+
+    }
+    #home_buttons {
+        width: 380px;
+        padding-left: 0;
+        margin: auto;
+    }
+    .bannersection p {
+        text-align: center;
+        margin: auto;
+        padding: 20px;
+        font-family: 'Lato' , 'Roboto';
+        color: #fff;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        max-width: 80%;
+    }
+    .bannersection h1 {
+        font-family: 'Lato' , 'Roboto';
+        z-index: 2;
+        font-weight: 700;
+        color: #fff;
+        font-size: 40px;
+        text-align: center;
+        margin: auto;
+        padding-left: 0;
+        padding-top: 18px;
+    }
+    #home_linkbox {
+        display: none;
+    }
+}
+@media (min-width: 49em) {
+    
+    /*      v   NAVIGATION  v       */
+    
+    
+    header {
+        border: none;
+        background: #2a2a2a;
+    }
+    .content_mobile {
+        display: none;
+    }
+    .content_desktop{
+        display: block;
+    }
+    .group_textbox {
+        width: 60%;
+        margin: auto;
+        padding-top: 100px;
+        padding-bottom: 60px;
+        text-align: center;
+    }
+    .group_textbox h1 {
+        font-size: 58px;
+        color: #fff;
+        text-align: center;
+    }
+    .group_textbox p {
+        font-size: 14px;
+        font-weight: 500;
+        max-width: 500px;
+        padding-top: 30px;
+        display: block;
+        margin-left: auto;
+        margin: auto;
+        color: #fff;
+    }
+    .group_textbox .rounded_button2 {
+        margin: auto;
+        margin-top: 40px;
+    }
+    .heightrow {
+        display: none;
+    }
+    
+    header .navlogobox {
+        display: none;
+        
+    }
+    .navmobile {
+        display: none;
+    }
+    .navdesktop {
+        display: block;
+    }
+    .naviconbox {
+        display: none;
+    }
+    .navlist {
+        display: block;
+        width: auto;
+        float: right;
+        margin-right: 20px;
+        margin-left: 20px;
+        padding-bottom: 0;
+    }
+    .navlist_item {
+        display: block;
+        width: auto;
+        float: left;
+        border: 0;
+        background: #2a2a2a;
+    }
+    .navlist_link {
+        font-family: 'Roboto';
+        font-weight: 500;
+        font-size: 13px;
+        padding: 22px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        background: #2a2a2a;
+        
+        border: 2px solid #1f1f1f;
+        
+        color: #fff;
+        text-indent: 0;
+    }
+    .navlist_link:hover {
+        color: #fff;
+        background: #6fc349;
+        
+        border: 2px solid #59a237;
+    }
+    .bannersection h1 {
+        font-size: 70px;
+    }
+    .bannersection p {
+        font-size: 18px;
+        line-height: 40px;
+        max-width: 800px;
+    }
+    .home_linkbox_desktop {
+        display: block;
+    }
+    
+    
+    /*      v   BODY  v       */
+    
+    
+    .black {
+        display: none;
+        background: transparent;
+        z-index: -1;
+    }
+    
+    .content {
+        max-width: 1440px;
+        margin: auto;
+        
+    }
+    
+    #footer .grid__column-12 {
+        width: 50%;
+    }
+    #footer #footer_center {
+        width: 100%;
+    }
+    .footercontent {
+        max-width: 1400px;
+        margin: auto;
+        padding: 0;
+    }
+    
+    /*      v   HOME  v       */
+    
+    #parallax_mobile {
+        display: none;
+    }
+    #parallax_desktop {
+        display: block;
+    }
+    .home_overlay {
+        background: url(images/home/background-tablet1.jpg);
+    }
+    
+    /*      v   PRICES  v       */
+    
+    #pricesfull h1 {
+        font-size: 49px;
+    }
+    #pricesfull h2 {
+        font-size: 40px;
+    }
+    
+    
+}
+
+@media (min-width: 51em) {
+    header .navlogobox {
+        display: block;
+        margin: 0;
+        margin-left: 40px;
+        margin-top: 6.5px;
+    }
+    #trainersection #info {
+        display: block;
+    }
+    .content {
+        padding-top: 20px;
+    }
+    .button {
+        margin: auto;
+        text-align: center;
+    }
+    .bannerbox {
+        max-width: 1440px;
+        margin: auto;
+    }
+    .bannerbox p {
+        max-width: 637px;
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .bannerbox h1 {
+        font-size: 69px;
+        padding-bottom: 40px;
+    }
+    
+    .textbox {
+        width: 100%;
+    }
+    .textbox p {
+        width: 75%;
+    }
+    .page_text {
+        width: 50%;
+        float: left;
+    }
+    .page_extra {
+        float: left;
+        width: 50%;
+    }
+    #uren {
+        padding-top: 40px;
+    }
+    .mobile_contenthome {
+        display: none;
+    }
+    .desktop_contenthome {
+        display: block;
+    }
+    .openingsuren {
+        width: auto;
+        float: left;
+    
+    }
+    #home_iframe {
+        display: block;
+    }
+    .home_button {
+        display: block;
+    }
+    .home_overlay {
+        
+        background: rgba(59, 59, 59, 0.87);
+        
+    }
+    #info2 {
+        display: block;
+    }
+    .prijzenbox_mobile {
+        display: none;
+    }
+    .prijzenbox_desktop {
+        display: block;
+    }
+    
+    
+    
+}
+@media (min-width: 600px) {
+    .homelink {
+        float: left;
+        width: 50%;
+    }
+    .desktopcircles {
+        display: block;
+    }
+    .form_half {
+        width: 48%;
+        float: left;
+    }
+    #form_half2 {
+        float: right;
+    }
+    
+    
+    
+}
+@media (min-width: 772px) {
+    #trainergallery {
+        display: none;
+    }
+}
+@media (min-width: 800px) {
+    .contact_left {
+        width: 50%;
+        float: left;
+    }
+    .contact_right {
+        width: 50%;
+        float: left;
+    }
+    .contact_float {
+        padding-left: 40px;
+    }
+    .contact_right {
+        clear: none;
+    }
+    .contact_contactbox {
+        background-image: url(images/contact/contact_bg.png);
+    }
+    .mapleft {
+        width: 50%;
+        padding: 16px;
+        float: left;
+    }
+    .mapright {
+        width: 50%;
+        padding: 16px;
+        float: left;
+    }
+}
+@media (min-width: 1000px) {
+    .desktopcircles {
+        display: block;
+    }
+    .homelink {
+        float: left;
+        width: 25%;
+    }
+    .homelink h1 {
+        font-size: 18
+    }
+    .circlebox {
+        width: 60vw; 
+        height: 60vw;
+        max-width: 160px;
+        max-height: 160px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .circle {
+        border-radius: 50%;
+        border: 4px solid #6fc349;
+        width: 100%;
+        height: 100%; 
+      /* width and height can be anything, as long as they're equal */
+    }
+    #pricesfull {
+        background-image: url(images/prijzen/background-groepslessen2.png);
+    }
+    .program_textbox {
+        width: 60%;
+        margin: auto;
+        padding-top: 25vh;
+        text-align: center;
+    }
+    .program_textbox h1{
+        color: #fff;
+        padding-bottom: 33px;
+        font-size: 47px;
+    }
+    .program_textbox p {
+        display: block;
+        margin: auto;
+        line-height: 36px;
+        padding-top: 33px;
+        padding-bottom: 33px;
+        color: #fff;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        font-weight: bold;
+        max-width: 660px;
+    }
+    #program_button2 {
+        display: none;
+    }
+    #program_button3 {
+        display: block;
+        margin: auto;
+    }
+    #info1 {
+    display: none;
+}
+    
+}
+@media (min-width: 80em) {
+    .fullw .home_background {
+        background: url(images/home/background2.png);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        padding-bottom: 25px;
+        height: 99vh;
+    }
+    .homecircles {
+        min-height: 50vh;
+    }
+    #logo_home2 {
+        display: block;
+    }
+    
+    
+    
+    
+}
+
+@media (min-width: 1142px){
+    .link-left {
+        position: absolute;
+        left: 20px;
+        z-index: 801;
+        width: 40%;
+        height: 150px;
+        background: url(images/prijzen/fotolinks.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .link-right {
+        position: absolute;
+        right: 20px;
+        z-index: 801;
+        width: 40%;
+        height: 150px;
+        background: url(images/prijzen/fotorechts.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+@media (min-width: 1228px){
+    #trainersection {
+        display: none !important;
+    }
+    #trainersection2 {
+        display: block !important;
+    }
+}
+@media (min-width: 500px) {
+    .galleryitem {
+        width: 50%;
+    }
+    
+    
+    
+}
+@media (min-width: 618px) {
+    
+    .group_box {
+    width: 25%;
+    float: left;
+        }
+        .group_button {
+    position: absolute;
+    width: 100px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+    top: 180px;
+    font-size: 10px;
+}
+}
+@media (min-width: 890px) {
+    .more_img {
+    width: 41%;
+    padding: 16px;
+    float: left;
+    padding-top: 60px;
+    min-height: 100px;
+    height: 100%;
+    
+}
+.more_text {
+    width: 50%;
+    float: left;
+    padding: 16px;
+    padding-top: 56px;
+}
+    .more_info {
+    position: absolute;
+    background: #f7f7f7;
+    width: 90%;
+    margin: auto;
+    max-width: 850px;
+    overflow-y: hidden;
+    max-height: 500px;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+    .more_infobox {
+    position: fixed;
+    z-index: 99999;
+    background: rgba(64, 64, 64, 0.82);
+    width: 100%;
+    height: 100vh;
+    padding: 16px;
+}
+}
+@media (min-width: 1000px) {
+    .galleryitem {
+        width: 25%;
+    }
+}
+@media (min-width: 1368px) {
+    .group_content .new {
+        visibility: visible;
+    }
+}
+
+@media (min-width: 936px){
+    .group_button {
+        position: absolute;
+        width: 100px;
+        left: 0;
+        right: 0;
+        text-align: center;
+        margin: auto;
+        top: 200px;
+        font-size: 13px;
+}
+}
+@media (min-width: 1036px){
+    .group_button {
+        position: absolute;
+        width: 130px;
+        left: 0;
+        right: 0;
+        text-align: center;
+        margin: auto;
+        top: 200px;
+        font-size: 16px;
+}
+}
+@media (min-width: 1488px) {
+    .group_all {
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+}
+.group_box {
+    width: 12.5%;
+    float: left;
+    
+    
+}
+#burlesque {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/burlesque.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#hiit {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/hiit.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#jazz {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/jazz.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#hiphop {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/hiphop.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#kids {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/kids.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#cycling {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/cycling.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#pilates {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/pilates.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#abs {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/abs.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#zumba {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/zumba.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#ballet {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    background-image: url(images/group/ballet.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.group_button {
+    position: absolute;
+    width: 100px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+    top: 180px;
+    font-size: 10px;
+}
+#burlesque_button, 
+#hiit_button, 
+#jazz_button, 
+#hiphop_button, 
+#kids_button, 
+#cycling_button,
+#pilates_button,
+#abs_button,
+#zumba_button,
+#ballet_button {
+    color: #6fc349;
+    border: 2px solid #6fc349;
+    border-radius: 30px;
+    padding: 6px;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+#burlesque_button:hover, 
+#hiit_button:hover, 
+#jazz_button:hover, 
+#hiphop_button:hover, 
+#kids_button:hover,
+#cycling_button:hover,
+#pilates_button:hover,
+#abs_button:hover,
+#zumba_button:hover,
+#ballet_button:hover {
+    color: #3e672c;
+    cursor: pointer;
+    
+    border: 2px solid #3e672c;
+    border-radius: 30px;
+}
+.arrowbox{
+    width: 100%;
+}
+#arrow {
+    fill:#6fc349; 
+    display: block;
+    width: 50px;
+    margin: auto;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+#arrow:hover {
+    fill: #3e672c;
+    cursor: pointer;
+}
+#arrowtitle {
+    color: #6FC349;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 200;
+}
+
+
+}
+
+
+
+
+
+

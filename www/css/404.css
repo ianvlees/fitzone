@@ -1,0 +1,36 @@
+* {
+    font-family: 'Roboto';
+    font-size: 40px;
+    color: #313131;
+    margin: 0;
+    font-weight: bold;
+}
+body {
+    background-color: #f7f7f7;
+    padding: 16px;
+    box-sizing: border-box;
+    
+}
+h1 {
+    font-size: 60px;
+    margin: 0;
+}
+p {
+    margin: 0;
+}
+#error_logo {
+    width: 25%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 16px;
+}
+a {
+    text-decoration: none;
+    color: #6fc349;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+a:hover {
+   color: #497e31; 
+}
